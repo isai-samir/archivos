@@ -1,0 +1,6 @@
+raiz,.
+user,raiz
+var,raiz
+temp,raiz
+root,user
+carpetaNueva,raiz

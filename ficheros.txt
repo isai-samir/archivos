@@ -1,0 +1,4 @@
+raizarchivo.txt 12kb root 770,raiz
+otroarchivo.txt 1MB ruben 770,raiz
+binario.bim 12kb root 770,raiz
+texto.txt 4kb root 770,raiz
